@@ -37,7 +37,7 @@ int main()
     {
         cout<<"enter size of array"<<endl;
         cin>>s;
-        int a[n];
+        int a[s];
         cout<<"enter "<<s<<" number of elements"<<endl;
         for(int j=0;j<s;j++)
         {
